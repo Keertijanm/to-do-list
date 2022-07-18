@@ -14,5 +14,14 @@
     "express": "^4.18.1",
     "mongodb": "^4.8.0",
     "mongoose": "^6.4.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keertijanm/to-do-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Keertijanm/to-do-list/issues"
+  },
+  "homepage": "https://github.com/Keertijanm/to-do-list#readme"
 }
